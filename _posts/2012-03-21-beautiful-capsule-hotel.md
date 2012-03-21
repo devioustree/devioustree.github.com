@@ -10,5 +10,5 @@ tags: [design, architecture, japan]
 
 While investigating places to stay for my upcoming trip to Japan I stumbled upon this incredible looking capsule hotel.
 
-\[[nine hours website](http://9hours.jp)\]  
+\[[nine hours website](http://9hours.jp)\] \[[more pictures](http://9hours.jp/details/index/)\]  
 /via [Design Boom](http://www.designboom.com/weblog/cat/9/view/8111/9-h-nine-hours-capsule-hotel-in-kyoto.html)
