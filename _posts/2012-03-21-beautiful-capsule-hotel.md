@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beautiful Capsule Hotel"
-category: 
+categories: [Architecture, Japan]
 tags: [design, architecture, japan]
 ---
 {% include JB/setup %}
