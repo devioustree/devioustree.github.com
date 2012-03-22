@@ -28,7 +28,7 @@ production_url : http://devioustree.co.uk
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
-  version : 0.2.0
+  version : 0.2.9
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -100,6 +100,8 @@ JB :
         tracking_id : 'UA-123-12'
     getclicky :
       site_id : 
+    mixpanel :
+        token : '_MIXPANEL_TOKEN_'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
