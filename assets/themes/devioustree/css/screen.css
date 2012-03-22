@@ -191,3 +191,38 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+/*****************************************************************************/
+/*
+/* Tags
+/*
+/*****************************************************************************/
+
+.tag_box.inline li {
+  float: left;
+}
+
+.tag_box li {
+  list-style-type: none;
+}
+
+.tag_box a {
+  padding: 3px 6px;
+}
+
+.tag_box a span {
+  display: none;
+}
+
+#post ul.tag_box {
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+#post ul.tag_box:first-child a {
+  padding-left: 0;
+}
+
+.tag_box {
+  overflow: hidden;
+}
