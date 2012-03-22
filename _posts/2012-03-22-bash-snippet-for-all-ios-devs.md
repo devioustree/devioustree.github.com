@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Bash snippet for all iOS devs"
-category: 
-tags: []
+category: Code
+tags: [code]
 ---
 {% include JB/setup %}
 
