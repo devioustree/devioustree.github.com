@@ -9,12 +9,13 @@ title: devioustree
     {% if post.layout == "song" %}
     <li class="song">
         {{ post.content }}
+        <p class="meta">{{ post.date | date_to_long_string }}</p>
     </li>
     {% else %}
     <li class="post">
         <h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
-        <p class="meta">{{ post.date | date_to_long_string }}</p>
         {{ post.content }}
+        <p class="meta">{{ post.date | date_to_long_string }}</p>
     </li>
     {% endif %}
     {% endfor %}
