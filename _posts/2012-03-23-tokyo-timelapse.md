@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Tokyo Timelapse"
-category: 
-tags: []
+categories: [Photography, Video]
+tags: [video, timelapse, tokyo, japan, photography]
 ---
 {% include JB/setup %}
 
