@@ -19,3 +19,5 @@ But it turned out that not only did he sign the book, he included a birthday car
 
 <img src="{{ site.CONTENT_ASSET_PATH }}/images/harkaway3.jpg" alt='The card reads: Dear Mr McNab, This comes to you through the agency of Tom Drummond - but let me just add in my own right: happy birthday! (sig) Nick Harkaway' title='The card reads: Dear Mr McNab, This comes to you through the agency of Tom Drummond - but let me just add in my own right: happy birthday! (sig) Nick Harkaway' />
 {% endcomment %}
+
+\[[Nick Harkaway's twitter](http://twitter.com/harkaway)\]
